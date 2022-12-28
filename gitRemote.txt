@@ -1,0 +1,8 @@
+1. Create github account
+2. Create empty repo
+3. local system
+	set user name
+	set user password
+4. git push -u origin master
+	4.1 user name
+	4.2 password
